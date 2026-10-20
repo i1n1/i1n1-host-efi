@@ -18,8 +18,8 @@ function(_i1n1_register name url commit)
 endfunction()
 
 _i1n1_register(core "https://github.com/i1n1/i1n1-core.git" "ab989e7ec2f8c8b0827f99370bee445ee1b91026")
-_i1n1_register(engine "https://github.com/i1n1/i1n1-engine.git" "2b431b30388dc5f97bb6e390d8955212444fe02c")
-_i1n1_register(platform "https://github.com/i1n1/i1n1-platform.git" "bf0db0c5ce4cb2396b36ab5daf0f5f53169e1450")
+_i1n1_register(engine "https://github.com/i1n1/i1n1-engine.git" "f34447e2d3a243073578a36acf1b059448723fd6")
+_i1n1_register(platform "https://github.com/i1n1/i1n1-platform.git" "9644a35f570ecc066e2329a1b91a0ec0a34696dc")
 
 function(i1n1_require name)
   string(TOUPPER "${name}" _up)

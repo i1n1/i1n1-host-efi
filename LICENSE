@@ -1,0 +1,8 @@
+i1n1 project-authored source code and build files in this repository are licensed under the
+GNU General Public License version 2 only (GPL-2.0-only). See COPYING for the complete license text.
+
+This grant applies only to project-authored material and does not relicense upstream code or grant
+rights to Apple software or trademarks.
+
+Apple software, SDKs, firmware, IPSWs, credentials, serial numbers and guest memory dumps are
+not part of this repository and are not covered by this grant.
